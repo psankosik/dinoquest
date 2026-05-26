@@ -1,10 +1,9 @@
 {
-  "projectId": "io26-keynote-demo",
-  "appId": "",
-  "apiKey": "",
-  "authDomain": "",
-  "storageBucket": "",
-  "messagingSenderId": "",
-  "measurementId": ""
+  "apiKey": "AIzaSyDwg35ckqzEcFV0B3HmJwiapoui8WBjdQE",
+  "authDomain": "tildi-playground-0003.firebaseapp.com",
+  "projectId": "tildi-playground-0003",
+  "storageBucket": "tildi-playground-0003.appspot.com",
+  "messagingSenderId": "800132044878",
+  "appId": "1:800132044878:web:c6a791239f15b427dacb1f",
+  "firestoreDatabaseId": "cicd-agent-lab"
 }
-
